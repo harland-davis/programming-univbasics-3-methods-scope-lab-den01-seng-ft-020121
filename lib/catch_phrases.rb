@@ -14,4 +14,4 @@ def link
 end
 
 def all_phrases
-  puts
+  puts def.mario.phrase 
